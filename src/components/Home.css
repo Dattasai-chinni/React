@@ -1,0 +1,25 @@
+.form{
+    border :1px solid lightgray;
+    width :300px;
+    margin :60px auto;
+    padding :80px;
+    border-radius : 18px;
+    box-shadow : 0px 1px 3px;
+    background-color: blueviolet;
+    
+
+}
+.input{
+    margin-left : 50px;
+    width :200px;
+    padding : 8px;
+    border-radius : 18px;
+    border-style : black;
+    
+}
+.button{
+    margin-left :130px;
+}
+.text{
+    margin-left : 50px;
+}
